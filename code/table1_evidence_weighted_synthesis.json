@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Soluble Aβ oligomers facilitate NMDA-R/mGluR1-dependent hippocampal LTD, independent of plaque",
+    "evidence": "Ex vivo hippocampal slices, primary neuron culture, AKAP150 knock-in mice [6-10,49]",
+    "status": "Established",
+    "remaining_uncertainty": "Human in vivo relevance at physiological concentrations"
+  },
+  {
+    "claim": "ERβ/GPER1 signaling modulates hippocampal spine density and plasticity",
+    "evidence": "Electrophysiology, receptor knockout mice, ex vivo morphology [11-17]",
+    "status": "Established",
+    "remaining_uncertainty": "Translation from acute slice effects to chronic in vivo state"
+  },
+  {
+    "claim": "GPER1 effects on plasticity are uniformly anti-LTD/pro-LTP",
+    "evidence": "Direct electrophysiological evidence of GPER1-dependent mGluR-LTD [16]",
+    "status": "Refuted as stated; context-dependent",
+    "remaining_uncertainty": "Which conditions favor GPER1's pro-LTP vs. pro-LTD action"
+  },
+  {
+    "claim": "Allopregnanolone decline reduces tonic GABAergic inhibition via GABA-A δ-subunit receptors",
+    "evidence": "Postpartum depression cohorts, brexanolone/zuranolone RCTs [18-23]",
+    "status": "Established",
+    "remaining_uncertainty": "Generalization from postpartum to perimenopausal population"
+  },
+  {
+    "claim": "Perimenopausal transition increases depression risk",
+    "evidence": "Epidemiological cohorts, meta-analyses [5,24,25]",
+    "status": "Established",
+    "remaining_uncertainty": "Whether fluctuation or deficiency is the operative variable (Section 3.3)"
+  },
+  {
+    "claim": "Systemic hormone therapy protects cognition/reduces dementia risk",
+    "evidence": "Multiple RCTs (KEEPS, ELITE, WHI) and meta-analyses, largely null-to-mixed [37-44]",
+    "status": "Contested / largely null in RCTs",
+    "remaining_uncertainty": "Whether any subgroup (surgical menopause, APOE4 status, timing) benefits"
+  },
+  {
+    "claim": "Sex differences and APOE4 interact to elevate female Alzheimer's risk",
+    "evidence": "Large cohort meta-analyses, mouse models [26-30]",
+    "status": "Established",
+    "remaining_uncertainty": "Precise mechanism linking APOE4-sex interaction to endocrine transition"
+  },
+  {
+    "claim": "Perimenopausal HPA-axis dysregulation mediates depression risk increase",
+    "evidence": "Mixed: some cohorts show cortisol rise; controlled Dex/CRH studies show normal reactivity [45-48]",
+    "status": "Contested",
+    "remaining_uncertainty": "Whether HPA-axis involvement is present in a subgroup"
+  },
+  {
+    "claim": "Endocrine state and proteoform burden act on convergent synaptic machinery (same threshold, BCM framework)",
+    "evidence": "Structural/mechanistic overlap (NMDA-R/glutamatergic signaling in shared circuits); no combined study",
+    "status": "Structurally plausible / Proposed",
+    "remaining_uncertainty": "No direct experimental test exists (Section 9 addresses this gap)"
+  },
+  {
+    "claim": "Endocrine state and proteoform burden are reciprocally interacting (Model 5, Section 5.2) rather than independent (Model 1) or upstream-driven (Model 4)",
+    "evidence": "No direct experimental test identified",
+    "status": "Hypothesized (this review's central claim)",
+    "remaining_uncertainty": "Requires the full research agenda in Section 9 to adjudicate among Models 1-5"
+  }
+]

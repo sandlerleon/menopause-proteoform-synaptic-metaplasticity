@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Do endocrine state and oligomer burden interact (additively/synergistically) on LTD induction?",
+    "model_intervention": "Ovariectomized vs. sham mice ± acute soluble Aβ oligomer infusion",
+    "measurement": "Hippocampal LTD magnitude (field EPSP slope depression)",
+    "predicted_outcome_model5": "LTD magnitude in OVX+oligomer exceeds the sum of single-factor effects",
+    "interpretation_if_not_observed": "Equal to sum: additive, not synergistic (still consistent with Model 5, weaker form). No greater than larger single effect: supports Model 1 (independent pathways) for this readout"
+  },
+  {
+    "question": "Is the interaction receptor-specific as proposed (ERβ, GABA-A δ-subunit)?",
+    "model_intervention": "OVX mice + oligomer, ± ERβ-selective agonist or zuranolone-class GABA-A δ-PAM",
+    "measurement": "LTD magnitude, spine density (Golgi/2-photon imaging)",
+    "predicted_outcome_model5": "Partial normalization of LTD/spine loss by either agonist",
+    "interpretation_if_not_observed": "No normalization: falsifies the specific receptor pathways proposed, even if a general endocrine-oligomer interaction holds via another route"
+  },
+  {
+    "question": "Does GPER1 activation help or worsen oligomer-facilitated LTD, given its distinct LTD-promoting role (Section 3.1)?",
+    "model_intervention": "OVX mice + oligomer + GPER1 agonist (G1)",
+    "measurement": "LTD magnitude",
+    "predicted_outcome_model5": "Direction not assumed; test is diagnostic, not confirmatory",
+    "interpretation_if_not_observed": "If GPER1 agonism worsens LTD, the simplified \"estrogen restoration helps\" framing must be replaced with a pathway-specific model (Section 3.1)"
+  },
+  {
+    "question": "Does peripheral, non-CNS-penetrating oligomer clearance reduce LTD/spine loss in oligomer-exposed, ovariectomized animals?",
+    "model_intervention": "OVX mice + oligomer ± peripheral sequestration (as in Section 7.2)",
+    "measurement": "LTD magnitude, spine density, peripheral vs. CNS oligomer concentration",
+    "predicted_outcome_model5": "Reduced LTD/spine loss with clearance",
+    "interpretation_if_not_observed": "No effect: the peripheral-sink logic (Section 7.2) does not extend to this synaptotoxic oligomer species/context"
+  },
+  {
+    "question": "Does combined endocrine restoration + peripheral clearance outperform either alone?",
+    "model_intervention": "Four-arm design: vehicle / endocrine only / clearance only / combined",
+    "measurement": "LTD magnitude; if extended, mood/cognition-relevant behavioral measures",
+    "predicted_outcome_model5": "Combined arm shows greatest normalization",
+    "interpretation_if_not_observed": "No combined advantage over the better single arm: falsifies the additivity/synergy claim even if each single-target effect independently replicates"
+  },
+  {
+    "question": "Are endocrine decline and proteoform burden consequences of a shared upstream driver (Model 4) rather than directly interacting?",
+    "model_intervention": "Aged (not ovariectomized) mice with independently manipulated inflammatory/vascular status",
+    "measurement": "LTD magnitude, correlation structure between endocrine markers, oligomer burden, and inflammatory/vascular markers",
+    "predicted_outcome_model5": "Direct endocrine-oligomer interaction persists after controlling for shared aging/inflammatory covariates",
+    "interpretation_if_not_observed": "If the interaction disappears after controlling for a shared covariate, Model 4 is favored over Model 5"
+  }
+]
