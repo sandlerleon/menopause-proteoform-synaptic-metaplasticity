@@ -1,16 +1,17 @@
-# Endocrine State and Soluble Proteoforms as Convergent Regulators of Synaptic Plasticity
+# Does Endocrine State Gate Proteoform-Induced Synaptic Vulnerability?
 
 Leon Sandler, Independent Researcher — sandler.leon@gmail.com
 
-Code and manuscript for "Endocrine State and Soluble Proteoforms as Convergent
-Regulators of Synaptic Plasticity: Implications for Menopause and Early
+Code and manuscript for "Does Endocrine State Gate Proteoform-Induced Synaptic
+Vulnerability? A Metaplasticity Framework for Menopause and Early
 Neurodegeneration," prepared for submission to *Neuroscience & Biobehavioral
-Reviews* (Elsevier).
+Reviews* (Elsevier) as a hypothesis-driven conceptual review.
 
 ## Summary
 
-This is a theoretical/conceptual review synthesizing two literatures usually
-studied separately — neuroendocrine regulation of hippocampal synaptic
+This is a hypothesis-driven conceptual review (not a systematic review or
+meta-analysis — see manuscript Section 1.3) synthesizing two literatures
+usually studied separately — neuroendocrine regulation of hippocampal synaptic
 plasticity across the menopause transition, and soluble amyloid-β (Aβ)
 oligomer-driven synaptotoxicity in early neurodegeneration — around a shared
 formal question posed in the language of Bienenstock-Cooper-Munro (BCM)
